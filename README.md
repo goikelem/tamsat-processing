@@ -31,12 +31,15 @@ Essential Tools:
 # Installation
 
 1. Clone this repository:
-   bash
-   git clone https://github.com/goikelem/tamsat-processing.git
-   cd tamsat-processing
-2. Ensure all dependencies are installed:
 
-<pre> ```bash # On Ubuntu/Debian sudo apt-get install cdo netcdf-bin wget ``` </pre> # 🚀 Required for CDO processing
+   git clone https://github.com/goikelem/tamsat-processing.git
+   
+   cd tamsat-processing
+   
+3. Ensure all dependencies are installed:
+
+### On Ubuntu/Debian 
+  sudo apt-get install cdo netcdf-bin wget  # 🚀 Required for CDO processing
 
 3. Configuration
 
